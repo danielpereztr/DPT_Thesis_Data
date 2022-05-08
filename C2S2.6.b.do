@@ -1,0 +1,1 @@
+lclogitml2 resp, rand(Var12 Var22 precio) membership(edad genero) nclasses(2) group(gid)
